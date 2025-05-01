@@ -4,7 +4,7 @@
   <ShortName>Collektive</ShortName>
   <Description>Search Collektive</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://collektive.github.io/img/collektive-logo-white.svg</Image>
+  <Image width="16" height="16" type="image/x-icon">https://collektive.github.io/img/collektive-logo-white-background-round.svg</Image>
   <Url type="text/html" method="get" template="https://collektive.github.io/search?q={searchTerms}"/>
   <Url type="application/opensearchdescription+xml" rel="self" template="https://collektive.github.io/opensearch.xml" />
   <moz:SearchForm>https://collektive.github.io/</moz:SearchForm>
